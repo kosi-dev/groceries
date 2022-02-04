@@ -336,4 +336,4 @@ var grocery_list = new List();
 grocery_list.parent = document.getElementById("grocery_list");
 
 var grocery_table;
-tableInit("/assets/groceries.csv");
+tableInit("assets/groceries.csv");
